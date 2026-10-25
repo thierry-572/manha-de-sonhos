@@ -49,7 +49,6 @@ manha-de-sonhos/
 └── README.md
 ```
 
-> A estrutura acima é ilustrativa. Os nomes dos arquivos devem corresponder aos existentes no repositório.
 
 ## 📚 Aprendizados
 
